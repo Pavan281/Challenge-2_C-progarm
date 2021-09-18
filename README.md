@@ -1,4 +1,4 @@
-# Challenge-2_C-progarm
+# Challenge-2_C-program
 # Challenge-2: Using Conditional Statements
 #include <stdio.h>
 int main()
